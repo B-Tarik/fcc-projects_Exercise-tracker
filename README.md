@@ -4,7 +4,7 @@
 it's a freecodecamp project in the "Apis and Microservices Projects" module, you have to build an API that will receive a USER_ID and return a json response containing the exercises sent by that user.
 
 bonus*: 
-- Front-end using React
+- Front-end using React, Sass, Responsive Design
 
 ### Tools used
 
